@@ -1,16 +1,20 @@
-### Hi there 👋
+<div>
+    <div style="    background-color: rgba(109,109,109,0.49);
+                    margin: 10px;
+                    padding: 10px;
+                    border-radius: 10px;
+                    text-align: center; background-image: url('https://i.imgur.com/81h3jML.jpg');
+                    background-size: auto;">   
+    <h2>Hey there, I'm Eugene</h2>
+    <h4>NSU Student 🎓</h4>
+    </div>
 
-<!--
-**evgen-resuser/evgen-resuser** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div style="background-color: rgba(109,109,109,0.49);
+                    margin: 10px;
+                    padding: 10px;
+                    border-radius: 10px;">
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=evgen-resuser&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+</div>
 
-Here are some ideas to get you started:
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->

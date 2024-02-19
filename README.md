@@ -13,7 +13,6 @@
                     margin: 10px;
                     padding: 10px;
                     border-radius: 10px;">
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=evgen-resuser&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 </div>
 
 </div>

@@ -1,5 +1,6 @@
 ![Header](https://github.com/evgen-resuser/evgen-resuser/blob/main/head.gif)
 ![GitHub Views](https://komarev.com/ghpvc/?username=evgen-resuser&color=252850)
+
 <h1>Hey. I'm Eugene. o/</h1>
 Computer science student. NSU. 
 
@@ -30,3 +31,5 @@ Computer science student. NSU.
 ![Apache Maven](https://img.shields.io/badge/Apache%20Maven-C71A36?style=for-the-badge&logo=Apache%20Maven&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=evgen-resuser&layout=compact)

@@ -4,12 +4,10 @@
 <h1>Hey. I'm Eugene. o/</h1>
 Computer science student. NSU. 
 
-<h3>Socials</h3>
-<lu>
-  <li>tg: @resuserr</li>
-  <li>gmail: e.syroezhkin@g.nsu.ru</li>
-</lu>
+<h3>Socials (click me)</h3>
 
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/resuserr)
+<a href="mailto:e.syroezhkin@g.nsu.ru">![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a>
 
 <h3>Programming & Markup Languages</h3>
 

@@ -2,7 +2,7 @@
 ![GitHub Views](https://komarev.com/ghpvc/?username=evgen-resuser&color=252850)
 
 <h1>Hey. I'm Eugene. o/</h1>
-Web-programmer. Computer Science Bachelor - NSU. 
+Web-developer. Computer Science Bachelor - NSU. 
 
 <h3>Socials (click me)</h3>
 
